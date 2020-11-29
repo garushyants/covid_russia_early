@@ -43,8 +43,8 @@ common = theme_classic()+
         axis.title.x = element_blank(),
         axis.title.y = element_blank(),
         legend.position="right",
-        legend.text = element_text(size =10),
-        legend.title = element_text(size =10),
+        legend.text = element_text(size =9),
+        legend.title = element_text(size =9),
         legend.key.size = unit(0.4, "cm"),
         plot.margin = unit(c(0,0,0,0), "lines"))
 ####
@@ -167,5 +167,5 @@ Figure1<-Figure1_pre +
                     xmin =0.87,
                     ymin =0.8)
                    
-ggsave("Fig1ab_Maps.png",plot= Figure1, 
-       path="Figures/", width = 25, height = 25, dpi=350, units = "cm")
+ggsave("Fig1ab_Maps.pdf",plot= Figure1, 
+       path="Figures/", width = 18, height = 18, dpi=350, units = "cm")

@@ -1,0 +1,212 @@
+Virus name	ClusterID	ClusterSingletonStem	ByType	Accession ID	Collection date	Location	Host	Additional location information	Gender	Patient age	Patient status	Passage	Specimen	Additional host information
+Russia/StPetersburg-3524/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_415710	2020-03-15	Europe / Russia / Saint Petersburg	Human		Female	30	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII3992/2020	Others	Stem	Stem	EPI_ISL_420080	2020-03-18	Europe / Russia / Saint Petersburg	Human		Female	69	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII3997/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_420081	2020-03-18	Europe / Russia / Saint Petersburg	Human		Female	70	Hospitalized	Original	Nasopharyngeal swab	
+Russia/Moscow_PMVL-1/2020	Others	Singleton	Singleton	EPI_ISL_421275	2020-03-18	Europe / Russia / Moscow	Human	ex Italy	Male	28	Hospitalized	Vero E6	Nasopharyngeal swab	
+Russia/StPetersburg-RII4144S/2020	Lineage1	Lineage1	LineageNoStem	EPI_ISL_427307	2020-03-20	Europe / Russia / Saint-Petersburg	Human		Male	26	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4307V/2020	Lineage4	Lineage4	Lineage	EPI_ISL_427308	2020-03-24	Europe / Russia / Saint-Petersburg	Human		Female	28	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4308V/2020	Lineage4	Lineage4	Lineage	EPI_ISL_427309	2020-03-24	Europe / Russia / Saint-Petersburg	Human		Female	71	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4382V/2020	Others	Stem	Stem	EPI_ISL_427310	2020-03-29	Europe / Russia / Saint-Petersburg	Human		Male	37	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4384V/2020	Others	Stem	Stem	EPI_ISL_427311	2020-03-29	Europe / Russia / Saint-Petersburg	Human		Female	62	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4386V/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_427312	2020-03-29	Europe / Russia / Saint-Petersburg	Human		Male	91	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4532V/2020	Others	Stem	Stem	EPI_ISL_427313	2020-04-03	Europe / Russia / Saint-Petersburg	Human		Male	unknown	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4546V/2020	Others	Singleton	Singleton	EPI_ISL_427314	2020-04-02	Europe / Russia / Saint-Petersburg	Human		Female	55	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4584S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427316	2020-04-03	Europe / Russia / Saint-Petersburg	Human		Male	69	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4585S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427317	2020-04-03	Europe / Russia / Saint-Petersburg	Human		Male	48	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4591S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427318	2020-04-03	Europe / Russia / Saint-Petersburg	Human		Female	54	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4597S/2020	Others	Singleton	Singleton	EPI_ISL_427319	2020-04-04	Europe / Russia / Saint-Petersburg	Human		Male	34	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4637S/2020	Others	Singleton	Singleton	EPI_ISL_427320	2020-04-05	Europe / Russia / Saint-Petersburg	Human		Female	54	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4649S/2020	Lineage1	Lineage1	LineageNoStem	EPI_ISL_427321	2020-04-05	Europe / Russia / Saint-Petersburg	Human		Female	95	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4655S/2020	Others	Singleton	Singleton	EPI_ISL_427322	2020-04-05	Europe / Russia / Saint-Petersburg	Human		Female	85	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4678S/2020	Others	Stem	Stem	EPI_ISL_427323	2020-04-06	Europe / Russia / Saint-Petersburg	Human		Female	23	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4686S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427324	2020-04-07	Europe / Russia / Saint-Petersburg	Human		Female	32	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4693S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427325	2020-04-07	Europe / Russia / Saint-Petersburg	Human		Female	73	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4694S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427326	2020-04-07	Europe / Russia / Saint-Petersburg	Human		unknown	73	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4696S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427327	2020-04-07	Europe / Russia / Saint-Petersburg	Human		Female	78	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4697S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427328	2020-04-07	Europe / Russia / Saint-Petersburg	Human		Female	55	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4707S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427329	2020-04-07	Europe / Russia / Saint-Petersburg	Human		Female	41	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4711S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427330	2020-04-07	Europe / Russia / Saint-Petersburg	Human		Female	33	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4713S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427331	2020-04-07	Europe / Russia / Saint-Petersburg	Human		unknown	61	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4723S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427332	2020-04-07	Europe / Russia / Saint-Petersburg	Human		Female	73	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4724S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427333	2020-04-07	Europe / Russia / Saint-Petersburg	Human		Female	57	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4726S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427334	2020-04-07	Europe / Russia / Saint-Petersburg	Human		Male	61	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4728S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427335	2020-04-07	Europe / Russia / Saint-Petersburg	Human		Male	60	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4781S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427336	2020-04-07	Europe / Russia / Saint-Petersburg	Human		Male	32	unknown	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4326S/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_427337	2020-03-25	Europe / Russia / Saint-Petersburg	Human		Male	36	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4328S/2020	Others	Stem	Stem	EPI_ISL_427338	2020-03-25	Europe / Russia / Saint-Petersburg	Human		unknown	51	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4332S/2020	Others	Stem	Stem	EPI_ISL_427339	2020-03-25	Europe / Russia / Saint-Petersburg	Human		unknown	56	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4706S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_427815	2020-04-07	Europe / Russia / Saint Petersburg	Human		Female	55	unknown	Original	Nasopharyngeal swab	
+Russia/Moscow-25I/2020	Others	Stem	Stem	EPI_ISL_428851	2020-04-02	Europe / Russia / Moscow	Human		Female	42	Released	Vero P1	Oro-pharyngeal swab	
+Russia/Moscow-35I/2020	Others	Singleton	Singleton	EPI_ISL_428852	2020-04-02	Europe / Russia / Moscow	Human		Male	44	Hospitalized	Vero P1	Oro-pharyngeal swab	
+Russia/Moscow-62505/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428860	2020-03-11	Europe / Russia / Moscow	Human		Male	52		Vero	Oro-pharyngeal swab	
+Russia/Moscow-62501/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428861	2020-03-11	Europe / Russia / Moscow	Human		Female	36		Vero	Oro-pharyngeal swab	
+Russia/Moscow-62506/2020	Others	Stem	Stem	EPI_ISL_428862	2020-03-11	Europe / Russia / Moscow	Human		Male	43		Vero	Oro-pharyngeal swab	
+Russia/Moscow-62508/2020	Lineage5	Lineage5	LineageNoStem	EPI_ISL_428863	2020-03-11	Europe / Russia / Moscow	Human		Male	26		Vero	Oro-pharyngeal swab	
+Russia/Moscow-62502/2020	Lineage5	Lineage5	LineageNoStem	EPI_ISL_428864	2020-03-11	Europe / Russia / Moscow	Human		Male	52		Vero	Oro-pharyngeal swab	
+Russia/Lipetsk-62704/2020	Others	Singleton	Singleton	EPI_ISL_428865	2020-03-11	Europe / Russia / Lipetsk Region	Human		Male	61		Vero	Oro-pharyngeal swab	
+Russia/Lipetsk-62707/2020	Others	Singleton	Singleton	EPI_ISL_428866	2020-03-11	Europe / Russia / Lipetsk Region	Human		Male	45		Vero	Oro-pharyngeal swab	
+Russia/Krasnodar-63401/2020	Others	Singleton	Singleton	EPI_ISL_428867	2020-03-11	Europe / Russia / Krasnodar Region	Human		Male	62		Vero	Oro-pharyngeal swab	
+Russia/StPetersburg-64304/2020	Others	Stem	Stem	EPI_ISL_428868	2020-03-13	Europe / Russia / St. Petersburg	Human		Female	35		Vero	Oro-pharyngeal swab	
+Russia/Moscow_64405/2020	Others	Stem	Stem	EPI_ISL_428869	2020-03-13	Europe / Russia / Moscow	Human		Female	16		Vero	Oro-pharyngeal swab	
+Russia/Moscow-64601/2020	Lineage2	Lineage2	LineageNoStem	EPI_ISL_428870	2020-03-13	Europe / Russia / Moscow Region	Human		Male	36		Vero	Oro-pharyngeal swab	
+Russia/Krasnoyarsk-66501/2020	Others	Stem	Stem	EPI_ISL_428871	2020-03-13	Europe / Russia / Krasnoyarsk Region	Human		Male	35		Vero	Oro-pharyngeal swab	
+Russia/Moscow-71605/2020	Others	Stem	Stem	EPI_ISL_428872	2020-03-19	Europe / Russia / Moscow Region	Human		Male	36		Vero	Oro-pharyngeal swab	
+Russia/Sverdlovsk-71904/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428873	2020-03-19	Europe / Russia / Sverdlovsk Region	Human		Male	47		Vero	Oro-pharyngeal swab	
+Russia/Yakutia-73709/2020	Lineage3	Lineage3	LineageNoStem	EPI_ISL_428874	2020-03-20	Europe / Russia / Republic of Sakha (Yakutia)	Human		Male	40		Vero	Oro-pharyngeal swab	
+Russia/Moscow-67117/2020	Others	Stem	Stem	EPI_ISL_428875	2020-03-16	Europe / Russia / Moscow	Human		Male	unknown		Vero	Oro-pharyngeal swab	
+Russia/Moscow-71604/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428876	2020-03-19	Europe / Russia / Moscow Region	Human		Male	27		Vero	Oro-pharyngeal swab	
+Russia/Moscow-71602/2020	Others	Singleton	Singleton	EPI_ISL_428877	2020-03-19	Europe / Russia / Moscow Region	Human		Male	33		Vero	Oro-pharyngeal swab	
+Russia/Omsk-89001/2020	Others	Stem	Stem	EPI_ISL_428878	2020-04-01	Europe / Russia / Omsk Region	Human		Female	35		Vero	Oro-pharyngeal swab	
+Russia/Sverdlovsk-71905/2020	Lineage2	Lineage2	LineageNoStem	EPI_ISL_428879	2020-03-19	Europe / Russia / Sverdlovsk Region	Human		Female	36		Vero	Oro-pharyngeal swab	
+Russia/Khabarovsk-71403/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428880	2020-03-19	Europe / Russia / Khabarovsk Region	Human		Female	52		Vero	Oro-pharyngeal swab	
+Russia/Moscow-67142/2020	Others	Stem	Stem	EPI_ISL_428881	2020-03-16	Europe / Russia / Moscow	Human		Female	unknown		Vero	Oro-pharyngeal swab	
+Russia/Moscow-67609/2020	Others	Stem	Stem	EPI_ISL_428882	2020-03-16	Europe / Russia / Moscow	Human		Male	54		Vero	Oro-pharyngeal swab	
+Russia/StPetersburg-73603/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428883	2020-03-20	Europe / Russia / St. Petersburg	Human		Female	87		Vero	Oro-pharyngeal swab	
+Russia/Moscow-77627/2020	Others	Singleton	Singleton	EPI_ISL_428884	2020-03-22	Europe / Russia / Moscow	Human		Male	32		Vero	Oro-pharyngeal swab	
+Russia/Samara-73406/2020	Others	Stem	Stem	EPI_ISL_428885	2020-03-20	Europe / Russia / Samara Region	Human		Male	22		Vero	Oro-pharyngeal swab	
+Russia/Samara-73403/2020	Others	Stem	Stem	EPI_ISL_428886	2020-03-20	Europe / Russia / Samara Region	Human		Male	44		Vero	Oro-pharyngeal swab	
+Russia/Moscow-77610/2020	Lineage3	Lineage3	LineageNoStem	EPI_ISL_428887	2020-03-22	Europe / Russia / Moscow	Human		Male	44		Vero	Oro-pharyngeal swab	
+Russia/Yakutia-73703/2020	Lineage7	Lineage7	Lineage	EPI_ISL_428888	2020-03-20	Europe / Russia / Republic of Sakha (Yakutia)	Human		Male	46		Vero	Oro-pharyngeal swab	
+Russia/Moscow-77620/2020	Lineage3	Lineage3	LineageNoStem	EPI_ISL_428889	2020-03-22	Europe / Russia / Moscow	Human		Female	38		Vero	Oro-pharyngeal swab	
+Russia/Sverdlovsk-71903/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428890	2020-03-19	Europe / Russia / Sverdlovsk Region	Human		Female	48		Vero	Oro-pharyngeal swab	
+Russia/Yakutia-83301/2020	Lineage3	Lineage3	LineageNoStem	EPI_ISL_428891	2020-03-25	Europe / Russia / Republic of Sakha (Yakutia)	Human		Male	40		Vero	Oro-pharyngeal swab	
+Russia/Krasnodar-80902/2020	Lineage9	Lineage9	LineageNoStem	EPI_ISL_428892	2020-03-23	Europe / Russia / Krasnodar Region	Human		Male	38		Vero	Oro-pharyngeal swab	
+Russia/Kabardino-Balkaria-80501/2020	Others	Stem	Stem	EPI_ISL_428893	2020-03-23	Europe / Russia / Republic of Kabardino-Balkaria	Human		Female	37		Vero	Oro-pharyngeal swab	
+Russia/Buryatia-84506/2020	Others	Stem	Stem	EPI_ISL_428894	2020-03-27	Europe / Russia / Republic of Buryatia	Human		Female	37		Vero	Oro-pharyngeal swab	
+Russia/Perm-82707/2020	Others	Singleton	Singleton	EPI_ISL_428895	2020-03-24	Europe / Russia / Perm Region	Human		Female	36		Vero	Oro-pharyngeal swab	
+Russia/Vector_84801/2020	Others	Stem	Stem	EPI_ISL_428896	2020-03-27	Europe / Russia / Republic of Sakha (Yakutia)	Human		Male	26		Vero	Oro-pharyngeal swab	
+Russia/StPetersburg-82005/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428897	2020-03-24	Europe / Russia / St. Petersburg	Human		Male	35		Vero	Oro-pharyngeal swab	
+Russia/Kabardino-Balkaria-80503/2020	Others	Stem	Stem	EPI_ISL_428898	2020-03-23	Europe / Russia / Republic of Kabardino-Balkaria	Human		Female	52		Vero	Oro-pharyngeal swab	
+Russia/Buryatia-86204/2020	Others	Stem	Stem	EPI_ISL_428899	2020-03-29	Europe / Russia / Republic of Buryatia	Human		Female	58		Vero	Oro-pharyngeal swab	
+Russia/Moscow-80112/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428900	2020-03-23	Europe / Russia / Moscow Region	Human		Male	59		Vero	Oro-pharyngeal swab	
+Russia/Crymea-80603/2020	Others	Stem	Stem	EPI_ISL_428901	2020-03-23	Europe / Russia / Republic of Crymea	Human		Male	40		Vero	Oro-pharyngeal swab	
+Russia/Orenburg-80305/2020	Lineage9	Lineage9	LineageNoStem	EPI_ISL_428902	2020-03-23	Europe / Russia / Orenburg Region	Human		Male	32		Vero	Oro-pharyngeal swab	
+Russia/Primorskiy-79001/2020	Others	Stem	Stem	EPI_ISL_428903	2020-03-22	Europe / Russia / Primorskiy Region	Human		Female	31		Vero	Oro-pharyngeal swab	
+Russia/Vector_77628/2020	Others	Singleton	Singleton	EPI_ISL_428904	2020-03-22	Europe / Russia / Moscow	Human		Female	44		Vero	Oro-pharyngeal swab	
+Russia/Moscow-80402/2020	Others	Stem	Stem	EPI_ISL_428905	2020-03-23	Europe / Russia / Moscow	Human		Female	19		Vero	Oro-pharyngeal swab	
+Russia/Buryatia-84504/2020	Others	Singleton	Singleton	EPI_ISL_428906	2020-03-27	Europe / Russia / Republic of Buryatia	Human		Female	37		Vero	Oro-pharyngeal swab	
+Russia/Sakha-89702/2020	Others	Singleton	Singleton	EPI_ISL_428907	2020-04-01	Europe / Russia / Republic of Sakha (Yakutia)	Human		Male	38		Vero	Oro-pharyngeal swab	
+Russia/Pskov-83602/2020	Others	Stem	Stem	EPI_ISL_428908	2020-03-25	Europe / Russia / Pskov Region	Human		Male	57		Vero	Oro-pharyngeal swab	
+Russia/Chechenya-83801/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428909	2020-03-26	Europe / Russia / Chechen Republic	Human		Male	29		Vero	Oro-pharyngeal swab	
+Russia/Khabarovsk-88201/2020	Others	Stem	Stem	EPI_ISL_428910	2020-03-31	Europe / Russia / Khabarovsk Region	Human		Female	56		Vero	Oro-pharyngeal swab	
+Russia/Buryatia-88903/2020	Others	Stem	Stem	EPI_ISL_428911	2020-04-01	Europe / Russia / Republic of Buryatia	Human		Male	25		Vero	Oro-pharyngeal swab	
+Russia/Sakhalin-84401/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428912	2020-03-27	Europe / Russia / Sakhalin Region	Human		Female	78		Vero	Oro-pharyngeal swab	
+Russia/Buryatia-84508/2020	Others	Stem	Stem	EPI_ISL_428913	2020-03-27	Europe / Russia / Republic of Buryatia	Human		Male	26		Vero	Oro-pharyngeal swab	
+Russia/Buryatia-87104/2020	Others	Stem	Stem	EPI_ISL_428914	2020-03-30	Europe / Russia / Republic of Buryatia	Human		Female	66		Vero	Oro-pharyngeal swab	
+Russia/Sverdlovsk-82904/2020	Others	Stem	Stem	EPI_ISL_428915	2020-03-25	Europe / Russia / Sverdlovsk Region	Human		Female	30		Vero	Oro-pharyngeal swab	
+Russia/Chechenya-83803/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428916	2020-03-26	Europe / Russia / Chechen Republic	Human		Male	67		Vero	Oro-pharyngeal swab	
+Russia/Tatarstan-82208/2020	Others	Stem	Stem	EPI_ISL_428917	2020-03-24	Europe / Russia / Tatarstan	Human		Male	25		Vero	Oro-pharyngeal swab	
+Russia/Novosibirsk-84101/2020	Others	Singleton	Singleton	EPI_ISL_428918	2020-03-27	Europe / Russia / Novosibirsk Region	Human		Female	23		Vero	Oro-pharyngeal swab	
+Russia/Buryatia-87106/2020	Others	Stem	Stem	EPI_ISL_428919	2020-03-30	Europe / Russia / Republic of Buryatia	Human		Male	16		Vero	Oro-pharyngeal swab	
+Russia/Buryatia-87105/2020	Others	Stem	Stem	EPI_ISL_428920	2020-03-30	Europe / Russia / Republic of Buryatia	Human		Female	37		Vero	Oro-pharyngeal swab	
+Russia/Tver-72601/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428921	2020-03-19	Europe / Russia / Tver Region	Human		Female	58		Vero	Oro-pharyngeal swab	
+Russia/Sverdlovsk-86704/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428922	2020-03-30	Europe / Russia / Sverdlovsk Region	Human		Female	60		Vero	Oro-pharyngeal swab	
+Russia/Sverdlovsk-84302/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428923	2020-03-27	Europe / Russia / Sverdlovsk Region	Human		Female	32		Vero	Oro-pharyngeal swab	
+Russia/Chelyabinsk-85311/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_428924	2020-03-28	Europe / Russia / Chelyabinsk Region	Human		Male	55		Vero	Oro-pharyngeal swab	
+Russia/StPetersburg-RII4705S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430067	2020-04-07	Europe / Russia / St.Petersburg	Human		Female	64		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4712V/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430068	2020-04-07	Europe / Russia / St.Petersburg	Human		Female	65		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4780S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430069	2020-04-07	Europe / Russia / St.Petersburg	Human		Female	40		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4917S/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_430070	2020-04-07	Europe / Russia / St.Petersburg	Human		Male	55	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4936S/2020	Others	Stem	Stem	EPI_ISL_430071	2020-04-08	Europe / Russia / St.Petersburg	Human		Male	47	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4937S/2020	Others	Singleton	Singleton	EPI_ISL_430072	2020-04-08	Europe / Russia / St.Petersburg	Human		Female	52	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4938S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430073	2020-04-08	Europe / Russia / St.Petersburg	Human		Female	47	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4944S/2020	Others	Stem	Stem	EPI_ISL_430074	2020-04-08	Europe / Russia / St.Petersburg	Human		Male	25	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4949S/2020	Others	Stem	Stem	EPI_ISL_430075	2020-04-09	Europe / Russia / St.Petersburg	Human		Female	64	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4969S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430076	2020-04-10	Europe / Russia / St.Petersburg	Human		Female	71		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4970S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430077	2020-04-10	Europe / Russia / St.Petersburg	Human		Female	unknown		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4972S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430078	2020-04-10	Europe / Russia / St.Petersburg	Human		Female	72		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4980S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430079	2020-04-10	Europe / Russia / St.Petersburg	Human		Female	50		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4983S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430080	2020-04-10	Europe / Russia / St.Petersburg	Human		Female	64		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4984S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430081	2020-04-10	Europe / Russia / St.Petersburg	Human		Male	33		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4985S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430082	2020-04-10	Europe / Russia / St.Petersburg	Human		Female	71		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII4988S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430083	2020-04-10	Europe / Russia / St.Petersburg	Human		Female	49		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5017V/2020	Lineage6	Lineage6	Lineage	EPI_ISL_430084	2020-04-09	Europe / Russia / St.Petersburg	Human		Female	26	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5029S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430085	2020-04-10	Europe / Russia / St.Petersburg	Human		Female	41		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5033S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430086	2020-04-10	Europe / Russia / St.Petersburg	Human		Female	50		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5047S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430087	2020-04-10	Europe / Russia / St.Petersburg	Human		Female	56		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5169S/2020	Lineage6	Lineage6	Lineage	EPI_ISL_430088	2020-04-09	Europe / Russia / St.Petersburg	Human		Female	55		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5170S/2020	Lineage6	Lineage6	Lineage	EPI_ISL_430089	2020-04-09	Europe / Russia / St.Petersburg	Human		unknown	45		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5244S/2020	Others	Singleton	Singleton	EPI_ISL_430090	2020-04-10	Europe / Russia / St.Petersburg	Human		unknown	59		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5247S/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_430091	2020-04-10	Europe / Russia / St.Petersburg	Human		Male	44		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5633S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430092	2020-04-14	Europe / Russia / St.Petersburg	Human		Female	37		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5634S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430093	2020-04-14	Europe / Russia / St.Petersburg	Human		Female	64		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5635S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430094	2020-04-14	Europe / Russia / St.Petersburg	Human		Female	63		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5642S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430095	2020-04-14	Europe / Russia / St.Petersburg	Human		Female	52		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5643S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430096	2020-04-14	Europe / Russia / St.Petersburg	Human		Male	55		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5644S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430097	2020-04-14	Europe / Russia / St.Petersburg	Human		Male	55		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5654S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430098	2020-04-14	Europe / Russia / St.Petersburg	Human		Female	84		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII5942S/2020	Others	Stem	Stem	EPI_ISL_430099	2020-04-13	Europe / Russia / St.Petersburg	Human		Male	35		Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6027S/2020	Others	Stem	Stem	EPI_ISL_430100	2020-04-14	Europe / Russia / St.Petersburg	Human		Female	33	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6031S/2020	Others	Stem	Stem	EPI_ISL_430101	2020-04-14	Europe / Russia / St.Petersburg	Human		unknown	54	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6039S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_430102	2020-04-14	Europe / Russia / St.Petersburg	Human		Female	78	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6043S/2020	Others	Singleton	Singleton	EPI_ISL_430103	2020-04-14	Europe / Russia / St.Petersburg	Human		Female	30	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6053S/2020	Others	Singleton	Singleton	EPI_ISL_430104	2020-04-15	Europe / Russia / St.Petersburg	Human		Female	60	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6055S/2020	Others	Stem	Stem	EPI_ISL_430105	2020-04-15	Europe / Russia / St.Petersburg	Human		Female	57	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6056S/2020	Others	Singleton	Singleton	EPI_ISL_430106	2020-04-15	Europe / Russia / St.Petersburg	Human		Female	71	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6060S/2020	Others	Singleton	Singleton	EPI_ISL_430107	2020-04-15	Europe / Russia / St.Petersburg	Human		unknown	24	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6061S/2020	Others	Singleton	Singleton	EPI_ISL_430108	2020-04-15	Europe / Russia / St.Petersburg	Human		Male	25	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6063S/2020	Lineage6	Lineage6	Lineage	EPI_ISL_430109	2020-04-15	Europe / Russia / St.Petersburg	Human		Female	54	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6065S/2020	Others	Stem	Stem	EPI_ISL_430110	2020-04-15	Europe / Russia / St.Petersburg	Human		Female	47	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6086S/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_430111	2020-04-15	Europe / Russia / St.Petersburg	Human		Female	67	Hospitalized	Original	Nasopharyngeal swab	
+Russia/Ulan-Ude-RII4562V/2020	Others	Stem	Stem	EPI_ISL_430112	2020-03-25	Europe / Russia / Buryat Republic / Ulan-Ude	Human		Female	67	Hospitalized	Original	Nasopharyngeal swab	
+Russia/Moscow-GCBL1/2020	Lineage7	Lineage7	Lineage	EPI_ISL_436715	2020-04-14	Europe / Russia / Moscow	Human		Male	41	Released	Original	Oro-pharyngeal swab	
+Russia/Moscow-GCBL2/2020	Lineage7	Lineage7	Lineage	EPI_ISL_436716	2020-04-14	Europe / Russia / Moscow	Human		Male	33	Released	Original	Oro-pharyngeal swab	
+Russia/Moscow-GCBL3/2020	Lineage7	Lineage7	Lineage	EPI_ISL_436717	2020-04-14	Europe / Russia / Moscow	Human		Male	44	Released	Original	Oro-pharyngeal swab	
+Russia/StPetersburg-RII6251S/2020	Lineage6	Lineage6	Lineage	EPI_ISL_450241	2020-04-15	Europe / Russia / Saint-Petersburg	Human		Male	17	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6704V/2020	Others	Singleton	Singleton	EPI_ISL_450242	2020-04-16	Europe / Russia / Saint-Petersburg	Human		Female	73	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6790V/2020	Others	Stem	Stem	EPI_ISL_450243	2020-04-16	Europe / Russia / Saint-Petersburg	Human		Female	18	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6840S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_450244	2020-04-15	Europe / Russia / Saint-Petersburg	Human		Female	51	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII6846V/2020	Lineage8	Lineage8	Lineage	EPI_ISL_450245	2020-04-15	Europe / Russia / Saint-Petersburg	Human		Female	87	Deceased	Original	Nasopharyngeal swab	
+Russia/Kipen-RII6907V/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_450246	2020-04-19	Europe / Russia / Leningrad region / Kipen	Human		Female	46	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7039V/2020	Others	Stem	Stem	EPI_ISL_450247	2020-04-16	Europe / Russia / Saint-Petersburg	Human		Male	37	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7318V/2020	Lineage6	Lineage6	Lineage	EPI_ISL_450248	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Female	45	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7319V/2020	Lineage6	Lineage6	Lineage	EPI_ISL_450249	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Female	42	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7321V/2020	Lineage6	Lineage6	Lineage	EPI_ISL_450250	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Female	28	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7340V/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_450251	2020-04-20	Europe / Russia / Saint-Petersburg	Human		Male	39	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7464S/2020	Others	Singleton	Singleton	EPI_ISL_450252	2020-04-20	Europe / Russia / Saint-Petersburg	Human		Male	74	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7488S/2020	Others	Stem	Stem	EPI_ISL_450253	2020-04-20	Europe / Russia / Saint-Petersburg	Human		Female	51	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7501S/2020	Others	Singleton	Singleton	EPI_ISL_450254	2020-04-20	Europe / Russia / Saint-Petersburg	Human		Female	78	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7505S/2020	Others	Singleton	Singleton	EPI_ISL_450255	2020-04-20	Europe / Russia / Saint-Petersburg	Human		Male	67	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7520S/2020	Others	Singleton	Singleton	EPI_ISL_450256	2020-04-20	Europe / Russia / Saint-Petersburg	Human		Male	54	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7545S/2020	Others	Stem	Stem	EPI_ISL_450257	2020-04-20	Europe / Russia / Saint-Petersburg	Human		Female	56	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7553S/2020	Lineage1	Lineage1	LineageNoStem	EPI_ISL_450258	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Male	unknown	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7555S/2020	Others	Singleton	Singleton	EPI_ISL_450259	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Female	51	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7557S/2020	Lineage1	Lineage1	LineageNoStem	EPI_ISL_450260	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Female	60	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7581S/2020	Others	Stem	Stem	EPI_ISL_450261	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Male	54	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7594S/2020	Others	Stem	Stem	EPI_ISL_450262	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Female	unknown	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7603S/2020	Others	Stem	Stem	EPI_ISL_450263	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Female	74	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7656S/2020	Others	Stem	Stem	EPI_ISL_450264	2020-04-20	Europe / Russia / Saint-Petersburg	Human		Male	54	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7658S/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_450265	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Female	58	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7880S/2020	Others	Stem	Stem	EPI_ISL_450266	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Male	83	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII7896S/2020	Others	Singleton	Singleton	EPI_ISL_450267	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Male	2 months	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8275S/2020	Others	Singleton	Singleton	EPI_ISL_450268	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Male	38	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8289S/2020	Others	Singleton	Singleton	EPI_ISL_450269	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Male	49	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8298S/2020	Others	Singleton	Singleton	EPI_ISL_450270	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Male	79	Deceased	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8317S/2020	Others	Singleton	Singleton	EPI_ISL_450271	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Female	57	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8319S/2020	Others	Singleton	Singleton	EPI_ISL_450272	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Male	46	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8350S/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_450273	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Female	37	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8371S/2020	Lineage1	Lineage1	LineageNoStem	EPI_ISL_450274	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Male	82	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8373S/2020	Lineage1	Lineage1	LineageNoStem	EPI_ISL_450275	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Male	48	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8380S/2020	Lineage1	Lineage1	LineageNoStem	EPI_ISL_450276	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Female	54	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8372S/2020	Lineage1	Lineage1	LineageNoStem	EPI_ISL_450277	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Male	63	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8388S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_450278	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Female	61	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8393S/2020	Others	Stem	Stem	EPI_ISL_450279	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Female	74	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8397S/2020	Others	Stem	Stem	EPI_ISL_450280	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Female	63	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8402S/2020	Others	Singleton	Singleton	EPI_ISL_450281	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Female	64	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8409S/2020	Others	Singleton	Singleton	EPI_ISL_450282	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Female	61	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8417S/2020	Others	Stem	Stem	EPI_ISL_450283	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Male	28	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8418S/2020	Others	Stem	Stem	EPI_ISL_450284	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Male	24	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8425S/2020	Others	Stem	Stem	EPI_ISL_450285	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Male	60	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8428S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_450286	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Male	70	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8429S/2020	Lineage8	Lineage8	Lineage	EPI_ISL_450287	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Male	77	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8876S/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_450288	2020-04-23	Europe / Russia / Saint-Petersburg	Human		Female	44	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8890S/2020	Others	Stem	Stem	EPI_ISL_450289	2020-04-23	Europe / Russia / Saint-Petersburg	Human		Male	79	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8913S/2020	Others	Singleton	Singleton	EPI_ISL_450290	2020-04-23	Europe / Russia / Saint-Petersburg	Human		Male	59	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8934S/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_450291	2020-04-23	Europe / Russia / Saint-Petersburg	Human		Female	75	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8935S/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_450292	2020-04-21	Europe / Russia / Saint-Petersburg	Human		Male	79	Hospitalized	Original	Nasopharyngeal swab	
+Russia/StPetersburg-RII8955S/2020	Others	Singleton	Singleton	EPI_ISL_450293	2020-04-22	Europe / Russia / Saint-Petersburg	Human		Female	70	Hospitalized	Original	Nasopharyngeal swab	
+Russia/SCPM-O-01/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_451963	2020-03-20	Eurasia / Russia / Moscow	Human		unknown	unknown	unknown	Original		
+Russia/SCPM-O-03/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_451965	2020-03-20	Eurasia / Russia / Moscow	Human		unknown	unknown	unknown	Original		
+Russia/SCPM-O-06/2020	Others	SingletonNoStem	SingletonNoStem	EPI_ISL_451968	2020-03-18	Eurasia / Russia / Moscow	Human		unknown	unknown	unknown	Original		
+Russia/SCPM-O-07/2020	Others	Singleton	Singleton	EPI_ISL_451969	2020-03-22	Eurasia / Russia / Moscow	Human		unknown	unknown	unknown	Original		
+Russia/SCPM-O-08/2020	Others	Stem	Stem	EPI_ISL_451970	2020-03-22	Eurasia / Russia / Moscow	Human		unknown	unknown	unknown	Original		
