@@ -1,6 +1,6 @@
 # covid_russia_early
 
-This repository contains scripts to produce figures from manuscript by Komissarov et al., 2020
+This repository contains scripts to produce figures from manuscript by [Komissarov et al., 2020](https://www.medrxiv.org/content/10.1101/2020.07.14.20150979v1)
 
 All necessary data files required to reproduce the results are in data folder.
 
