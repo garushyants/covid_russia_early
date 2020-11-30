@@ -1,8 +1,8 @@
 # covid_russia_early
 
-This repository contains scripts to produce figures from manuscript by [Komissarov et al., 2020](https://www.medrxiv.org/content/10.1101/2020.07.14.20150979v1)
+This repository contains R and Python scripts utilized in the manuscript by [Komissarov et al., 2020](https://www.medrxiv.org/content/10.1101/2020.07.14.20150979v1)
 
-All necessary data files required to reproduce the results are in data folder.
+All necessary data files required to reproduce the results is provided in the data folder.
 
 Scripts in python are required for tree manipulations and visualization.
 
