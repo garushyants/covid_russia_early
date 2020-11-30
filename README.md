@@ -1,2 +1,15 @@
 # covid_russia_early
-This repository contains scripts to manipulate phylogenetic tree in order to obtain clades of interest and vizualize them
+
+This repository contains scripts to produce figures from manuscript by Komissarov et al., 2020
+
+All necessary data files required to reproduce the results are in data folder.
+
+Scripts in python are required for tree manipulations and visualisation.
+get_lineages_and_dates.py allows to find all Russian lineages on the tree and visualize them.
+get_singletons.py and get_stem_clusters.py allow to find Russian singletons and stem clusters.
+
+For clade definitions see below:
+![alt text](https://github.com/garushyants/covid19_russia_early/blob/master/Figures/Fig3_lineages_explained.pdf)
+
+R scripts are designed to construct Figures 1 and 6 from the manuscript
+
