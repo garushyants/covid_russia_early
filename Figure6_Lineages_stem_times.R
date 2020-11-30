@@ -34,7 +34,6 @@ common = theme_classic()+
         axis.title.y = element_text(size =12),
         legend.text = element_text(size =12),
         legend.title = element_blank())
-        #legend.position="none")
 
 ###################################
 #Plot correlation
@@ -60,8 +59,8 @@ plot<-ggplot(data=CovMetadata,
         axis.title.x = element_blank())
 
 ##
-grob <- grobTree(textGrob(eval(paste(rho[s], "=", RhoS,
-                                           "(p =", SPvalue,")")), 
+grob <- grobTree(textGrob(paste0("\U03C1 = ",eval(RhoS),
+                                           " (p = ", eval(SPvalue),")"), 
                           x=0.05,y = 0.95,
                           hjust =0,
                           gp=gpar(fontsize=12)))
@@ -155,7 +154,7 @@ lines<-ggplot() +
         axis.ticks.y = element_blank()) +
   guides(color = FALSE,
          fill= guide_legend(override.aes = list(size=4)))
-lines
+#lines
 ####################################
 ###Add Russian COVID statistics
 RussiaCaseNumber<-read.csv("data/Russia_case_data_by_date.csv", header =T, sep ="\t")
@@ -180,7 +179,7 @@ Caseplot<-ggplot(data=RussiaCaseNumber,
   
 #############################
 #Combine plots in one figure
-Figure3<-ggarrange(Caseplot, plot + annotation_custom(grob), lines, 
+Figure6<-ggarrange(Caseplot, plot + annotation_custom(grob), lines, 
           labels = c("a", "b", "c"),
           vjust = 0.8,
           hjust = 0,
@@ -192,5 +191,5 @@ Figure3<-ggarrange(Caseplot, plot + annotation_custom(grob), lines,
           legend.grob = get_legend(lines))
 #save
 ggsave("Fig6abс_AgeVsDate_Introductions_unadjasted.svg",
-       path = "Figures",plot= Figure3, 
+       path = "Figures",plot= Figure6, 
        width = 18, height = 24, dpi = 350, units = "cm")
