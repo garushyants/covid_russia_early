@@ -10,8 +10,7 @@ get_lineages_and_dates.py allows to find all Russian lineages on the tree and vi
 
 get_singletons.py and get_stem_clusters.py allow to find Russian singletons and stem clusters.
 
-For clade definitions see below:
-![alt text](https://github.com/garushyants/covid_russia_early/blob/main/Figures/Fig3_lineages_explained.png)
+For clade definitions see [Figure 3](https://github.com/garushyants/covid_russia_early/blob/main/Figures/Fig3_lineages_explained.png)
 
 R scripts are designed to construct Figures 1 and 6 from the manuscript
 
