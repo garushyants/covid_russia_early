@@ -4,8 +4,10 @@ This repository contains scripts to produce figures from manuscript by [Komissar
 
 All necessary data files required to reproduce the results are in data folder.
 
-Scripts in python are required for tree manipulations and visualisation.
+Scripts in python are required for tree manipulations and visualization.
+
 get_lineages_and_dates.py allows to find all Russian lineages on the tree and visualize them.
+
 get_singletons.py and get_stem_clusters.py allow to find Russian singletons and stem clusters.
 
 For clade definitions see below:
